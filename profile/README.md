@@ -1,23 +1,22 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+[![Github Header-min](https://github.com/CastelGame/.github/assets/28778964/d435cd08-3091-4cf9-82e8-03a4083c9338)](https://castelgame.com)
 
-## About Laravel
+## About Castel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Castel redefines MMORTS gaming on Telegram, powered by the Telegram Mini App (TMA) and Ton blockchain. Engage in real-time strategy, alliance-building, and fortress construction for unparalleled depth and security. 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Our Team
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- [Morteza Hakim](https://www.linkedin.com/in/morteza-hakim/)
+- [AmirHossein Rahimi](https://github.com/ah-rahimi)
+- [Amir Hossein Rezaei](https://github.com/amirking59)
+- [Mohammad Javad Ghasemy](https://github.com/geeksesi/)
+- [Ali Memar](https://github.com/ali-memar)
+- [Mohamad Amin seydi](https://www.linkedin.com/in/mohamadamin-seydi-a2676321a/)
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Technologies
+<div id="badges">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Language Badge"/>
+</div>
