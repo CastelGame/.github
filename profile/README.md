@@ -7,9 +7,9 @@ Castel redefines MMORTS gaming on Telegram, powered by the Telegram Mini App (TM
 ## Our Team
 
 - [Morteza Hakim](https://www.linkedin.com/in/morteza-hakim/)
-- [AmirHossein Rahimi](https://github.com/ah-rahimi)
+- [Hossein Hosseini ](https://www.linkedin.com/in/seyedhossein01/)
+- [AmirHosein Rahimi](https://github.com/ah-rahimi)
 - [Amir Hossein Rezaei](https://github.com/amirking59)
-- [Mohammad Javad Ghasemy](https://github.com/geeksesi/)
 - [Ali Memar](https://github.com/ali-memar)
 - [Mohamad Amin seydi](https://www.linkedin.com/in/mohamadamin-seydi-a2676321a/)
 
